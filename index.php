@@ -28,7 +28,7 @@ Last Modified : 14/06/2019
                 <div id="btn2">Reset</div></a> <!-- End Btn2 -->
             </div> <!-- End Box -->
         </form>
-        <div class="contact"
+        <div class="contact">
              <!-- display problem message to user to seek assistance -->  
              <p style="color:white;">Problem logging in? - Contact I.T. Department </p>
         </div>
